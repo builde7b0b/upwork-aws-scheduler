@@ -1,0 +1,15 @@
+test-upwork.pem 
+/aws-instance-scheduler-backend/node_modules/
+/aws-instance-scheduler-backend/.env
+/aws-instance-scheduler-backend/package-lock.json
+/aws-instance-scheduler-backend/dist/
+/aws-instance-scheduler-backend/.serverless/
+/aws-instance-scheduler-backend/package.json
+
+/aws-ui/node_modules/
+/aws-ui/node_modules/
+/aws-ui/.env
+/aws-ui/package-lock.json
+/aws-ui/dist/
+/aws-ui/yarn.lock 
+/aws-ui/.serverless/
